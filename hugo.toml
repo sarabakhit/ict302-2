@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+github.com/sarabakhit/ict302-2
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'ananke'
