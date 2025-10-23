@@ -6,8 +6,29 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 12:05:12 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 11:56:25 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hall Post</title>
+      <link>http://localhost:1313/hall-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:56:25 -0400</pubDate>
+      <guid>http://localhost:1313/hall-post/</guid>
+      <description>&lt;p&gt;Post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hall Post</title>
+      <link>http://localhost:1313/posts/hall-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:56:25 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hall-post/</guid>
+      <description>&lt;p&gt;Post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hall Page</title>
+      <link>http://localhost:1313/hall-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:54:30 -0400</pubDate>
+      <guid>http://localhost:1313/hall-page/</guid>
+      <description>&lt;p&gt;Page&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Javaid</title>
       <link>http://localhost:1313/javaid/</link>
