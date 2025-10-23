@@ -9,10 +9,52 @@
     <lastBuildDate>Tue, 14 Oct 2025 12:14:37 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Page</title>
+      <link>http://localhost:1313/posts/bakhit2-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bakhit2-page/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Bakhit Page</title>
       <link>http://localhost:1313/bakhit-page/</link>
       <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
       <guid>http://localhost:1313/bakhit-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bakhit Page</title>
+      <link>http://localhost:1313/posts/bakhit-post/</link>
+      <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bakhit-post/</guid>
+      <description>&lt;p&gt;Phishing attacks are common attacks commited by cyber criminals. Today you will learn what these attacks are, why they are commited, and possible ways to prevent it from happening.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Page</title>
+      <link>http://localhost:1313/posts/bakhit6-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bakhit6-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maps/Navigation Page</title>
+      <link>http://localhost:1313/posts/bakhit5-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bakhit5-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News Page</title>
+      <link>http://localhost:1313/posts/bakhit4-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bakhit4-page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research Page</title>
+      <link>http://localhost:1313/posts/bakhit3-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:14:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bakhit3-page/</guid>
       <description></description>
     </item>
   </channel>
