@@ -7,16 +7,16 @@ theme = 'ananke'
 
 [[menu.main]]
 name = "Home"
-url = "/"
+pageref = "/"
 weight = 1
 
 [[menu.main]]
 name = "About"
-url = "/about/"
+pageref = "/about/"
 weight = 2
 
 [[menu.main]]
 name = "Contact"
-url = "/contact/"
+pageref = "/contact/"
 weight = 3
 
