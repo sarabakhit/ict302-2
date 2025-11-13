@@ -11,8 +11,8 @@ pageref = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-pageref = "/about/"
+name = "posts"
+pageref = "/posts/"
 weight = 2
 
 [[menu.main]]
