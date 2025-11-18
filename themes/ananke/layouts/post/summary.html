@@ -1,7 +1,7 @@
   <div class="mb3 pa4 {{ $.Param "text_color" | compare.Default "mid-gray" }} overflow-hidden">
     {{ if .Date }}
       <div class="f6">
-        {{ .Date | time.Format (compare.Default "January 2, 2006" .Site.Params.date_format) }}
+        {{ .Date | time.Format (compare.Default " 2006, 2, January 2 " .Site.Params.date_format) }}
       </div>
     {{ end }}
     <h1 class="f3 near-black">
