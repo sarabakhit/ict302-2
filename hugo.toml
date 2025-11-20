@@ -1,6 +1,6 @@
 baseurl = 'https://sweet-brigadeiros-38834a.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Student Parking'
 theme = 'ananke'
 
 [menu]
