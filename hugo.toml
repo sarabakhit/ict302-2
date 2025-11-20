@@ -8,15 +8,15 @@ theme = 'ananke'
 [[menu.main]]
 name = "Home"
 pageref = "/"
-weight = 1
+weight = 10
 
 [[menu.main]]
 name = "posts"
 pageref = "/posts/"
-weight = 2
+weight = 20
 
 [[menu.main]]
 name = "Contact"
 pageref = "/contact/"
-weight = 3
+weight = 30
 
