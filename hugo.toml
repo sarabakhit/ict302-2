@@ -6,7 +6,7 @@ theme = 'ananke'
 [menu]
 
 [[menu.main]]
-name = "Home"
+name = "House"
 pageref = "/"
 weight = 10
 
