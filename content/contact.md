@@ -6,23 +6,8 @@ title = "Contact"
 
 Fill out the form below:
 
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact" />
+### Parking Office Information
 
-  <p>
-    <label>Name:<br>
-    <input type="text" name="name" required></label>
-  </p>
-
-  <p>
-    <label>Email:<br>
-    <input type="email" name="email" required></label>
-  </p>
-
-  <p>
-    <label>Message:<br>
-    <textarea name="message" rows="5" required></textarea></label>
-  </p>
-
-  <p><button type="submit">Send</button></p>
-</form>
+**Phone:** (555) 123-4567  
+**Email:** parking@yourwebsite.com  
+**Address:** 123 Main St, Lexington, KY  
