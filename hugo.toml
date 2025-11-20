@@ -1,12 +1,12 @@
 baseurl = 'https://sweet-brigadeiros-38834a.netlify.app/'
 languageCode = 'en-us'
-title = 'Student Parking'
+title = 'Student Parking at UKY'
 theme = 'ananke'
 
 [menu]
 
 [[menu.main]]
-name = "House"
+name = "Home"
 pageref = "/"
 weight = 10
 
