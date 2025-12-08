@@ -3,7 +3,7 @@ date = '2025-10-14T12:14:37-04:00'
 title = 'News and Resources Page'
 +++
 
-This page collects important links related to parking, transportation, construction, and campus life at the University of Kentucky. These resources help students, faculty, and staff stay informed about daily impacts on commuting and accessibility.
+This page collects important links related to parking, transportation, and campus life at the University of Kentucky. These resources help students, faculty, and staff stay informed about daily impacts on commuting and accessibility.
 
 ---
 
