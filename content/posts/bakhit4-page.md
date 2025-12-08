@@ -24,6 +24,10 @@ This page collects important links related to parking, transportation, and campu
 [https://transportation.uky.edu/citation
 ](https://transportation.uky.edu/citation)
 
+- ADA Accessible Permits
+  
+   https://transportation.uky.edu/parking/ada-accessible-permits
+
 
 ---
 
