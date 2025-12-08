@@ -3,8 +3,6 @@ date = '2025-10-14T12:14:45-04:00'
 title = 'Campus Weather'
 +++
 
-## 🌤️ Campus Weather Hub
-
 Welcome to the UKY Campus Weather Hub a guide for staying prepared whether you're walking across campus, driving in from home, or parking in one of UK’s lots or garages.
 
 The Weather can affect:
@@ -86,3 +84,4 @@ This page supports the mission of the UKY Parking & Campus Life Project by helpi
 - Stay informed without needing to jump to another outside app
 
 ---
+
