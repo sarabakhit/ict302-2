@@ -25,7 +25,9 @@ Finding a Parking Spot at used to be a minor inconvience. NOw it raises your blo
 ---
 ## Issue 2 
 
-We've also seen that Surrounding Lexington neighborhoods are also affected by reduced parking availability. However Parking is not just an exclusive problem for us at the University of Kentucky. In fact Campuses nationwide are struggling to balance  new found growth with the problems it causes for students and staff members alike.
+We've also seen that Surrounding Lexington neighborhoods are also affected by reduced parking availability. 
+
+However Parking is not just an exclusive problem for us at the University of Kentucky. In fact Campuses nationwide are struggling to balance  new found growth with the problems it causes for students and staff members alike.
 
 ---
 ## Issue 3 
@@ -45,16 +47,20 @@ the University has opted to put the profits over the people
 
 The only reason to sell twice as many parking passes for every one parking space is to maximize the profits. There are easy and feasible solutions that the University could Implament 
 
- - Lower the rate of admissions to reduce the "new largest freshman class" records. 
- - maybe don't make a new A.I Majors if your students and staff are already facing pressing matters
+ - Lower the rate of admissions to reduce the "new largest freshman class" records.
+   
+ - maybe don't make invest resources into a new A.I Majors if your students and staff are already facing pressing matters
+   
  - Just sell one parking pass for every one parking spot
+   
  - give Daily Commuters a lower price for a parking pass because they Commute significantly more BUT have to pay the same rate for someone who rarely uses their car
+   
  - prioritize the students, and wonderful staff that make UKY a great Campus to begin with
 
 
 ## Who can help you
 This is where we come in. We want to make your life easier, and your stress levels lower. Because you deserve a better support system for Campus Parking. 
 
-It's time that the buck stops here 
+It's time that the buck stops here and you get a community that actually looks out for you
 
 ---
