@@ -52,7 +52,7 @@ If you are selected in this program, benefits could include:
 - Long-term parking cost reduction
 - Renewals based on continued need
 
- *This program is currently a class-based pilot initiative and does not guarantee direct financial aid at this time.*
+ *This program is currently in pre-alpha and does not guarantee direct financial aid at this time.*
 
 ---
 
@@ -61,11 +61,12 @@ If you are selected in this program, benefits could include:
 This short application survey helps our team understand who relies on parking the most and who would benefit from prioritized assistance.
 
 **Apply Here:**  
-[https://docs.google.com/forms/d/e/1FAIpQLSf0EeWyttnD0rnNAyzJRJ4F2A1WLWo_7oYkT_nwe-LIyvRm8Q/viewform?usp=header]
+https://docs.google.com/forms/d/e/1FAIpQLSf0EeWyttnD0rnNAyzJRJ4F2A1WLWo_7oYkT_nwe-LIyvRm8Q/viewform?usp=header
 
 ---
 
 **Apply Here if you are renewing:**
+  https://docs.google.com/forms/d/e/1FAIpQLSdr6fQdnYgSKgseX0u1b0JSVgjG_4yRgAQPVAPfuZvh-DjUyA/viewform?usp=publish-editor
   
 ---
 
@@ -74,5 +75,3 @@ This short application survey helps our team understand who relies on parking th
 At UKY, students and employees who drive daily carry the same financial burden as those who rarely use their permits. We want to present an ICT based solution that can improve fairness in the lives of those who are apart of the university.
 
 ---
-
-*This initiative is presented for academic and proposal purposes as part of a University of Kentucky ICT course.*
