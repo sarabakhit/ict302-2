@@ -23,7 +23,7 @@ This page exists to help students and staff members plan smarter, not harder.
 - Temperature: 45°F  
 - General Feel: Cool and dry with light wind
 
-Today's weather is perfect for walking but cold enough that commuters should be aware of or plan for chilly garage conditions and early-morning frost.
+Today's weather is perfect for walking but cold enough that commuters should be aware of or plan for chilly garage conditions and early morning frost.
 
 ---
 
@@ -84,4 +84,5 @@ This page supports the mission of the UKY Parking & Campus Life Project by helpi
 - Stay informed without needing to jump to another outside app
 
 ---
+
 
