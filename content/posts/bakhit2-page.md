@@ -9,3 +9,6 @@ We understand the frustration of student parking which is why we will be buildin
 This app will lower the amount of time spent looking for a parking space 
 
 foster and create a community that will share their information together. 
+
+Join the Group Me with the Link!: https://groupme.com/join_group/111956276/xxYbxUrG
+
