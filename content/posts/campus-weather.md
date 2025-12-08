@@ -17,7 +17,7 @@ This page exists to help students and staff members plan smarter, not harder.
 
 ---
 
-## Current Lexington Weather (as of 12/8/25)
+## Current Lexington Weather (as of 12/9/25)
 
 - Condition:Partly sunny with light cloud coverage  
 - Temperature: 45°F  
@@ -84,5 +84,6 @@ This page supports the mission of the UKY Parking & Campus Life Project by helpi
 - Stay informed without needing to jump to another outside app
 
 ---
+
 
 
