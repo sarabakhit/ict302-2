@@ -4,8 +4,6 @@ title = 'The Growing Parking Problem at UK'
 +++
 ---
 
-## Why is Parking becoming a problem at the University of Kentucky
-
 The Campus population at our university continues to rise, with nearly 39,000 students and faculty contributing to a more crowded environment. This increase reflects national patterns, as U.S. undergraduate enrollment grew by 3.2% in 2023 (T2 Systems, 2023). With larger class sizes that means more cars are brought by both in-state and out of state students as well as commuting staff. In fact UKY is hiring more proffesors and staff which means more cars coming and the total amount of parking spaces remaining the same. 
 
 In Fact according to the Kentucky Kernal, "This year the University of Kentucky’s Transportation Services oversold commuter parking passes on a 2-1 ratio"
