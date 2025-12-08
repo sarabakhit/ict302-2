@@ -14,7 +14,7 @@ UK’s unsatisfactory parking situation is caused by the combination of:
 
 Campus life at the University of Kentucky continues to expand year after year. Enrollment has climbed steadily, and with nearly 39,000 students and faculty now part of the university community (Blanton, 2024), the campus has become denser than ever. This pattern mirrors a broader national trend. According to T2 Systems (2023), more than two-thirds of U.S. states saw a 3.2 percent increase in undergraduate enrollment in 2023 alone.
 
-Each record-breaking class brings more than just students and new perspectives—it brings cars. The University of Kentucky hosts students from both in-state and out-of-state, many of whom bring personal vehicles. Faculty and staff also contribute heavily to parking demand, as nearly all employees commute to work. Research supports this trend, noting that “the number of private cars owned by them is increasing rapidly,” which directly “leads to a shortage of campus parking capacity” (Abbood et al., 2021).
+Each record-breaking class brings more than just students and new perspectives, it brings more cars. The University of Kentucky hosts students from both in-state and out-of-state, many of whom bring personal vehicles. Faculty and staff also contribute heavily to parking demand, as nearly all employees commute to work. Research supports this trend, noting that “the number of private cars owned by them is increasing rapidly,” which directly “leads to a shortage of campus parking capacity” (Abbood et al., 2021).
 
 
 ## Overselling of Parking Passes & Infrastructure Strain
