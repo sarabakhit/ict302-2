@@ -1,2 +1,6 @@
-<img src="https://placekitten.com/800/400" alt="Cute cat" width="400" />
+﻿+++
+date = '2025-10-14T12:14:37-04:00'
+title = 'Parking App Display '
++++
+
 
